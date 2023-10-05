@@ -15,8 +15,7 @@
 
 
 ## 1. Identity Gate $\I$
-$
-$
+$this_{is}^{inline}$
 
 
 ### Multi-Agent Deep Deterministic Policy Gradient (MADDPG) 
