@@ -8,7 +8,7 @@
 
 <img src="u_gate.png" width="50%" />
 
-<img src="cx_gate.png" width="30%" />
+<img src="cx_gate.png" width="20%" />
 
 <img src="ccx_gate.png" width="30%" />
 
