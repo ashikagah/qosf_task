@@ -15,6 +15,9 @@
 
 
 ## 1. Identity Gate $\I$
+$
+$
+
 
 ### Multi-Agent Deep Deterministic Policy Gradient (MADDPG) 
 I implemented a MADDPG algorithm based on [Lowe et al.](https://arxiv.org/abs/1706.02275). The MADDPG algorithm is a general-purpose multi-agent learning algorithm that:
