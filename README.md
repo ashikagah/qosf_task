@@ -1,9 +1,7 @@
 # QOSF Quantum Computing Mentorship Program
 <img src="qosf.png" width="30%" />
 
-## Cohort 8: Screening Tasks
-
-## Task 3: Decomposition
+## Cohort 8 Screening Tasks - Task 3: Decomposition
 - Using the U and CX gates shown below, decompose the matrices to obtain CCX and CCCX gates. As a bonus, create a method for constructing any multi-controlled X gate.
 
 <img src="u_gate.png" width="40%" />
@@ -16,7 +14,7 @@
 
 
 
-## Learning Algorithm
+## 1. Identity Gate \I
 
 ### Multi-Agent Deep Deterministic Policy Gradient (MADDPG) 
 I implemented a MADDPG algorithm based on [Lowe et al.](https://arxiv.org/abs/1706.02275). The MADDPG algorithm is a general-purpose multi-agent learning algorithm that:
