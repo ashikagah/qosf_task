@@ -6,6 +6,16 @@
 ## Task 3: Decomposition
 - Using the U and CX gates shown below, decompose the matrices to obtain CCX and CCCX gates. As a bonus, create a method for constructing any multi-controlled X gate.
 
+<img src="u_gate.png" width="30%" />
+
+<img src="cx_gate.png" width="30%" />
+
+<img src="ccx_gate.png" width="30%" />
+
+<img src="cccx_gate.png" width="30%" />
+
+
+
 ## Learning Algorithm
 
 ### Multi-Agent Deep Deterministic Policy Gradient (MADDPG) 
