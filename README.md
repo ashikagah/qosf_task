@@ -1,5 +1,6 @@
 # QOSF Quantum Computing Mentorship Program
-<img src="qosf.png" width="70%" />
+<img src="qosf.png" width="30%" />
+
 ## Cohort 8: Screening Tasks
 
 ## Task 3: Decomposition
