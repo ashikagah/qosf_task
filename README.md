@@ -12,7 +12,7 @@
 
 <img src="ccx_gate.png" width="30%" />
 
-<img src="cccx_gate.png" width="30%" />
+<img src="cccx_gate.png" width="40%" />
 
 
 
