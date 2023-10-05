@@ -6,7 +6,7 @@
 ## Task 3: Decomposition
 - Using the U and CX gates shown below, decompose the matrices to obtain CCX and CCCX gates. As a bonus, create a method for constructing any multi-controlled X gate.
 
-<img src="u_gate.png" width="40%" />
+<img src="u_gate.png" width="50%" />
 
 <img src="cx_gate.png" width="30%" />
 
