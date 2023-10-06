@@ -88,7 +88,10 @@ U(\pi,-\frac{\pi}{2}\,\frac{\pi}{2}\) & = \begin{pmatrix}
                                           0 & -i \\\ 
                                           -i & 0 
                                           \end{pmatrix} \\
-                                      & = RX(\pi) \\
+                                      & = -i \begin{pmatrix} 
+                                          0 & 1 \\\ 
+                                          1 & 0 
+                                          \end{pmatrix} \\
                                       & = -i X
 }$$
 
