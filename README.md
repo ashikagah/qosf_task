@@ -15,18 +15,13 @@
 ## 1. Creating the I (= Identity) Gate from the U gate 
 $I=U(0,0,0)=$
 
-$$ 
-{\left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack} 
-* \left\lbrack \matrix{1 & 0 \cr 0 & 1} \right\rbrack
-= \left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack
-$$
 
 $\begin{matrix} 1 & 0 \\ 0 & 1 \end{matrix}$
 
 $\vec{v} = \begin{bmatrix} X \\\ Y \end{bmatrix}$
 
 **The Cauchy-Schwarz Inequality**
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 
