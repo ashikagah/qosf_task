@@ -98,5 +98,5 @@ $$
 
 ## 2. Decomposition of the CX gate using the I and the X gates
 $$\eqalign{
-CX &= \ket{0} \bra{0}
+CX &= \ket{0} \bra{0} \otimes I + \ket{1} \bra{1} \otimes X 
 }$$
