@@ -83,9 +83,18 @@ U(\pi,-\frac{\pi}{2}\,\frac{\pi}{2}\) & = \begin{pmatrix}
                                       & = \begin{pmatrix} 
                                           0 & -\cos \frac{\pi}{2}\ - i \sin \frac{\pi}{2}\ 
                                           \cos (-\frac{\pi}{2}\) + i \sin (-\frac{\pi}{2}\)  & 0 
-                                          \end{pmatrix}
+                                          \end{pmatrix} \\
+                                      & = \begin{pmatrix} 
+                                          0 & -i \\\ 
+                                          -i & 0 
+                                          \end{pmatrix} \\
+                                      & = RX(\pi) \\
+                                      & = -i X
 }$$
 
+$$
+\therefore X=-i U(\pi,-\frac{\pi}{2}\,\frac{\pi}{2}\) 
+$$
 
 $$ 
 {\left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack} 
