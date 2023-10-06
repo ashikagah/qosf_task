@@ -8,7 +8,9 @@ $$
 U(\theta,\phi,\lambda)=\begin{pmatrix} cos \frac{\theta}{2}\ & -e^{i\lambda} sin \frac{\theta}{2}\ \\\ e^{i\phi} sin \frac{\theta}{2}\ & e^{i(\phi+\lambda)} cos \frac{\theta}{2}\ \end{pmatrix}
 $$
 
-\(\frac{\theta}{2}\)
+$$
+CX=\begin{pmatrix} 1 & 0 & 0 & 0 \\\ 0 & 1 & 0 & 0 \\\ 0 & 0 & 0 & 1 \\\ 0 & 0 & 1 & 0 \end{pmatrix}
+$$
 
 <img src="u_gate.png" width="40%" />
 
