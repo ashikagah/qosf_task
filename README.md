@@ -93,7 +93,7 @@ U(\pi,-\frac{\pi}{2}\,\frac{\pi}{2}\) & = \begin{pmatrix}
 }$$
 
 $$
-\therefore X=-i U(\pi,-\frac{\pi}{2}\,\frac{\pi}{2}\) 
+\therefore X=i U(\pi,-\frac{\pi}{2}\,\frac{\pi}{2}\) 
 $$
 
 ## 2. Decomposition of the CX gate using the I and the X gates
