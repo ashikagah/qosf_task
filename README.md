@@ -9,12 +9,17 @@ U(\theta,\phi,\lambda)=\begin{pmatrix} cos \frac{\theta}{2}\ & -e^{i\lambda} sin
 $$
 
 $$
-CX=\begin{pmatrix} 1 & 0 & 0 & 0 \\\ 0 & 1 & 0 & 0 \\\ 0 & 0 & 0 & 1 \\\ 0 & 0 & 1 & 0 \end{pmatrix}
+CX=\begin{pmatrix} 
+1 & 0 & 0 & 0 
+\\\ 0 & 1 & 0 & 0 
+\\\ 0 & 0 & 0 & 1 
+\\\ 0 & 0 & 1 & 0 
+\end{pmatrix}
 $$
 
-<img src="u_gate.png" width="40%" />
-
-<img src="cx_gate.png" width="20%" />
+$$
+CCX=\begin{pmatrix} 1 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\\ 0 & 1 & 0 & 0 & 0 & 0 & 0 & 0 \\\ 0 & 0 & 1 & 0 & 0 & 0 & 0 & 0\\\ 0 & 0 & 1 & 0 \end{pmatrix}
+$$
 
 <img src="ccx_gate.png" width="30%" />
 
