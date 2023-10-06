@@ -55,7 +55,7 @@ CCCX=\begin{pmatrix}
 \end{pmatrix}
 $$
 
-## 1. Creating the $I$ (= Identity) and the $X$ (= NOT) gates from the $U$ gate 
+## 1. Creating the $\I$ (= Identity) and the $X$ (= NOT) gates from the $U$ gate 
 $$
 I=U(0,0,0)=\begin{pmatrix} 1 & 0 \\\ 0 & 1 \end{pmatrix}
 $$
