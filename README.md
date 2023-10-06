@@ -57,12 +57,12 @@ $$
 
 ## 1. Creating the I (= Identity) and the X (= NOT) gates from the U gate 
 $$
-U(0,0,0)=
+U(0,0,0) & =
 \begin{pmatrix} 
 \cos 0 & -e^{0} \sin 0 \\\ 
 e^{0} \sin 0 & e^{0} \cos 0 
-\end{pmatrix}
-=\begin{pmatrix} 1 & 0 \\\ 0 & 1 \end{pmatrix}
+\end{pmatrix} \\
+        & =\begin{pmatrix} 1 & 0 \\\ 0 & 1 \end{pmatrix}
 $$
 
 $$
