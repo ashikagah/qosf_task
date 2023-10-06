@@ -13,7 +13,7 @@
 <img src="cccx_gate.png" width="50%" />
 
 ## 1. Creating the I (= Identity) Gate from the U gate 
-$\I$
+$I=U(0,0,0)$
 **The Cauchy-Schwarz Inequality**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
