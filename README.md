@@ -96,7 +96,7 @@ $$
 \therefore X=-i U(\pi,-\frac{\pi}{2}\,\frac{\pi}{2}\) 
 $$
 
-## 2. Decomposition of the CX gate
+## 2. Decomposition of the CX gate using the I and the X gates
 $$\eqalign{
-CX &= |0> <0|
+CX &= \ket{0} \bra{0}
 }$$
