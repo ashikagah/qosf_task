@@ -16,7 +16,7 @@
 $I=U(0,0,0)=$
 
 $$
-\vec{v} = \begin{pmatrix} 1 & 0 \\\ 0 & 1 \end{pmatrix}
+I=U(0,0,0)=\begin{pmatrix} 1 & 0 \\\ 0 & 1 \end{pmatrix}
 $$
 
 $$ 
