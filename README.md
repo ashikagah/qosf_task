@@ -16,7 +16,7 @@
 $I=U(0,0,0)=$
 
 $$
-\vec{v} = \begin{matrix} X \\\ Y \end{matrix}
+\vec{v} = \begin{pmatrix} X \\\ Y \end{pmatrix}
 $$
 
 **The Cauchy-Schwarz Inequality**
