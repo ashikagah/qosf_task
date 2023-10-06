@@ -5,7 +5,7 @@
 - Using the U and CX gates shown below, decompose the matrices to obtain CCX and CCCX gates. As a bonus, create a method for constructing any multi-controlled X gate.
 
 $$
-U(\theta,\phi,\lambda)=\begin{pmatrix} cos \frac{\theta}{2}\ & -e^(i\lambda) sin \theta/2 \\\ 0 & 1 \end{pmatrix}
+U(\theta,\phi,\lambda)=\begin{pmatrix} cos \frac{\theta}{2}\ & -e^(i\lambda) sin \frac{\theta}{2}\ \\\ 0 & 1 \end{pmatrix}
 $$
 
 \(\frac{\theta}{2}\)
