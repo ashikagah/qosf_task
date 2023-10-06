@@ -82,7 +82,7 @@ U(\pi,-\frac{\pi}{2}\,\frac{\pi}{2}\) & = \begin{pmatrix}
                                           \end{pmatrix} \\
                                       & = \begin{pmatrix} 
                                           0 & -\cos \frac{\pi}{2}\ - i \sin \frac{\pi}{2}\ 
-                                          \cos -\frac{\pi}{2}\ + i \sin -\frac{\pi}{2}\  & 0 
+                                          \cos (-\frac{\pi}{2}\) + i \sin (-\frac{\pi}{2}\)  & 0 
                                           \end{pmatrix}
 }$$
 
