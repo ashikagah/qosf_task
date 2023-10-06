@@ -19,6 +19,12 @@ $$
 \vec{v} = \begin{pmatrix} X \\\ Y \end{pmatrix}
 $$
 
+$$ 
+{\left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack} 
+* \left\lbrack \matrix{1 & 0 \cr 0 & 1} \right\rbrack
+= \left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack
+$$
+
 **The Cauchy-Schwarz Inequality**
 
 $\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$
