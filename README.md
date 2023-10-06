@@ -62,10 +62,11 @@ U(0,0,0)=
 cos 0 & -e^{0} sin 0 \\\ 
 e^{0} sin 0 & e^{0} cos 0 
 \end{pmatrix}
+=\begin{pmatrix} 1 & 0 \\\ 0 & 1 \end{pmatrix}
 $$
 
 $$
-U(0,0,0)=\begin{pmatrix} 1 & 0 \\\ 0 & 1 \end{pmatrix}
+\therefore I=U(0,0,0)
 $$
 
 $$ 
