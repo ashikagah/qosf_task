@@ -78,7 +78,7 @@ e^{-i\frac{\pi}{2}\} \sin \frac{\pi}{2}\ & e^{0} \cos \frac{\pi}{2}\
 =\begin{pmatrix} 
 0 & -e^{i\frac{\pi}{2}\} 
 e^{-i\frac{\pi}{2}\} & 0 
-\end{pmatrix}
+\end{pmatrix} \\\
 =\begin{pmatrix} 
 0 & -\cos \frac{\pi}{2}\ - i \sin \frac{\pi}{2}\ 
 \cos -\frac{\pi}{2}\ + i \sin -\frac{\pi}{2}\  & 0 
