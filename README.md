@@ -15,10 +15,12 @@
 ## 1. Creating the I (= Identity) Gate from the U gate 
 $I=U(0,0,0)=$
 
-$$ {\left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack} 
+$$ 
+{\left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack} 
 * \left\lbrack \matrix{1 & 0 \cr 0 & 1} \right\rbrack
 = \left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack
 $$
+
 $\begin{matrix} 1 & 0 \\ 0 & 1 \end{matrix}$
 
 $\vec{v} = \begin{bmatrix} X \\\ Y \end{bmatrix}$
