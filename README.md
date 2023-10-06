@@ -96,7 +96,9 @@ $$
 \therefore X=-i U(\pi,-\frac{\pi}{2}\,\frac{\pi}{2}\) 
 $$
 
-## 2. Decomposition of the CX gate using the I and the X gates
-$$\eqalign{
-CX &= \ket{0} \bra{0} \otimes I + \ket{1} \bra{1} \otimes X 
-}$$
+## 2. Decomposition of the CX, CCX, and CCCX gates using the I and the X gates
+$$
+CX = \ket{0} \bra{0} \otimes I + \ket{1} \bra{1} \otimes X \\
+CCX = \ket{0} \bra{0} \otimes I \otimes I + \ket{1} \bra{1} \otimes CX \\
+CCCX = \ket{0} \bra{0} \otimes I \otimes I \otimes I + \ket{1} \bra{1} \otimes CCX 
+$$
