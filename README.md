@@ -15,7 +15,8 @@
 ## 1. Creating the I (= Identity) Gate from the U gate 
 $I=U(0,0,0)=$
 
-$\begin{matrix} 1 & 0 \\ 0 & 1 \end{matrix}$
+$begin{matrix} 1 & 0 \\ 0 & 1 \end{matrix}$
+
 **The Cauchy-Schwarz Inequality**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
