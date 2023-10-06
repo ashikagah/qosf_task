@@ -2,7 +2,7 @@
 <img src="qosf.png" width="30%" />
 
 ## Cohort 8 Screening Tasks - Task 3: Decomposition
-- Using the $U$ and $CX$ gates shown below, decompose the matrices to obtain $CCX$ and $CCCX$ gates. As a bonus, create a method for constructing any multi-controlled $X$ gate.
+Using the $U$ and $CX$ gates shown below, decompose the matrices to obtain $CCX$ and $CCCX$ gates. As a bonus, create a method for constructing any multi-controlled $X$ gate.
 
 $$
 U(\theta,\phi,\lambda)=\begin{pmatrix} cos \frac{\theta}{2}\ & -e^{i\lambda} sin \frac{\theta}{2}\ \\\ e^{i\phi} sin \frac{\theta}{2}\ & e^{i(\phi+\lambda)} cos \frac{\theta}{2}\ \end{pmatrix}
