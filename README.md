@@ -16,7 +16,7 @@
 $I=U(0,0,0)=$
 
 $$
-\vec{v} = \begin{pmatrix} X \\\ Y \end{pmatrix}
+\vec{v} = \begin{pmatrix} 1 & 0 \\\ 0 & 1 \end{pmatrix}
 $$
 
 $$ 
