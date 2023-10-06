@@ -17,6 +17,8 @@ $I=U(0,0,0)=$
 
 $\begin{matrix} 1 & 0 \\ 0 & 1 \end{matrix}$
 
+$\vec{v} = \begin{bmatrix} X \\\ Y \end{bmatrix}$
+
 **The Cauchy-Schwarz Inequality**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
