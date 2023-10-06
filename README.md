@@ -13,7 +13,7 @@
 <img src="cccx_gate.png" width="50%" />
 
 ## 1. Creating the I (= Identity) Gate from the U gate 
-$I=U(0,0,0)=\begin{matrix} 1 & 0 \\ 0 & 1 \end{matrix}$
+$I=U(0,0,0)=$
 
 $\vec{v} = \begin{bmatrix} X \\\ Y \end{bmatrix}$
 
