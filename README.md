@@ -15,7 +15,7 @@
 ## 1. Creating the I (= Identity) Gate from the U gate 
 $I=U(0,0,0)=$
 
-$\vec{v} = \begin{bmatrix} X \\\ Y \end{bmatrix}$
+\vec{v} = \begin{bmatrix} X \\\ Y \end{bmatrix}
 
 **The Cauchy-Schwarz Inequality**
 
