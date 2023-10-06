@@ -69,6 +69,15 @@ $$
 \therefore I=U(0,0,0)
 $$
 
+$$
+U(\pi,-\frac{\pi}{2}\,\frac{\pi}{2}\)=
+\begin{pmatrix} 
+cos \frac{\pi}{2}\ & -e^{i\frac{\pi}{2}\} sin \frac{\pi}{2}\ \\\ 
+e^{-i\frac{\pi}{2}\} sin \frac{\pi}{2}\ & e^{0} cos \frac{\pi}{2}\ 
+\end{pmatrix}
+$$
+
+
 $$ 
 {\left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack} 
 * \left\lbrack \matrix{1 & 0 \cr 0 & 1} \right\rbrack
